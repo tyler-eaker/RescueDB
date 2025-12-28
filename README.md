@@ -1,4 +1,4 @@
-# RescueDash
+# RescueDB
 
 **RescueDash** is a full-stack web application designed for the interactive visualization and geospatial tracking of rescue animal data. Built using the **Dash** framework and **MongoDB Atlas**, it allows users to filter animal records by rescue type (Water, Mountain, Disaster) and view real-time breed distributions and geographical locations.
 
