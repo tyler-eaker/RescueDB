@@ -1,6 +1,6 @@
 # RescueDB
 
-**RescueDash** is a full-stack web application designed for the interactive visualization and geospatial tracking of rescue animal data. Built using the **Dash** framework and **MongoDB Atlas**, it allows users to filter animal records by rescue type (Water, Mountain, Disaster) and view real-time breed distributions and geographical locations.
+**RescueDB** is a full-stack web application designed for the interactive visualization and geospatial tracking of rescue animal data. Built using the **Dash** framework and **MongoDB Atlas**, it allows users to filter animal records by rescue type (Water, Mountain, Disaster) and view real-time breed distributions and geographical locations.
 
 ## Key Features
 * **Secure CRUD Integration**: Implements a custom Python module for Create, Read, Update, and Delete operations with MongoDB.
@@ -22,5 +22,5 @@ Ensure you have Python 3.9+ installed and a MongoDB Atlas cluster ready for conn
 
 ### 2. Clone the Repository
 ```bash
-git clone [https://github.com/tyler-eaker/RescueDash.git](https://github.com/tyler-eaker/RescueDash.git)
-cd RescueDash
+git clone [https://github.com/tyler-eaker/RescueDB.git](https://github.com/tyler-eaker/RescueDB.git)
+cd RescueDB
